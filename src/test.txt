@@ -1,0 +1,1 @@
+This synthetic file intentionally blocks APA Skill source initialization.
